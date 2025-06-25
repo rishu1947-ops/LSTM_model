@@ -23,5 +23,5 @@ To run this project, you will need Python 3 and Git installed.
 
 **1. Clone the repository:**
 ```bash
-git clone <https://github.com/rishu1947-ops/LSTM_model.git>
-cd <LSTM_model>
+git clone https://github.com/rishu1947-ops/LSTM_model.git
+cd LSTM_model
